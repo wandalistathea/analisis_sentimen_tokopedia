@@ -1,4 +1,6 @@
 # analisis_sentimen_tokopedia
+Ini merupakan project untuk laporan Kerja Praktik
+
 Analisis sentimen pengguna Tokopedia dari Google PlayStore menggunakan metode Support Vector Machine (SVM)
 diperoleh akurasi dari 10-fold cross validation sebesar 87,41%. 
 

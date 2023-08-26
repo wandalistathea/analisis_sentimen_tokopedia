@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Analisis Sentimen Tokopedia</title>
+        <link rel="stylesheet" type="text/css" href="static/styles.css">
+    </head>
+
+    <body>
+        
+
+        <div class="container">
+            <h1>Analisis Sentimen dari Ulasan Aplikasi Tokopedia</h1>
+
+            <div class="banner">
+            </div>
+            
+            <form method="POST" class="form">
+                <label for="input-data">Ulasan: </label>
+                <input type="textextra" name="input-data" placeholder="Tuliskan ulasan Anda">
+                <button type="submit" name="submit">Submit</button>
+            </form>
+
+            <div id="output-container">
+                <p id="output-text">Ulasan Anda: {{ content }}</p>
+                <p id="output-text">Sentimen dari ulasan tersebut adalah: <b>{{ data }}</b></p>
+            </div>
+
+        </div>
+
+    </body>
+
+</html>

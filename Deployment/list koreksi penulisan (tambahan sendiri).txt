@@ -1,0 +1,501 @@
+toko pedia: tokopedia
+terimakasih: terima kasih
+udah: sudah
+tokped: tokopedia
+pake: pakai
+apk: aplikasi
+toped: tokopedia
+blm: belum
+bikin: buat
+tau: tahu
+bgt: banget
+trus: terus
+instal: install
+bener: benar
+tgl: tanggal
+eror: error
+makasih: terima kasih
+dapet: dapat
+trimakasih: terima kasih
+jgn: jangan
+ngasih: memberi
+dpt: dapat
+gaada: tidak ada
+gada: tidak ada
+gamau: tidak mau
+gatau: tidak tahu
+gabisa: tidak bisa
+emang: memang
+cepet: cepat
+mantab: mantap
+liat: lihat
+skrg: sekarang
+trs: terus
+kasi: kasih
+males: malas
+uninstal: uninstall
+bsa: bisa
+cuman: cuma
+tetep: tetap
+dasboard: dashboard
+nyampe: sampai
+belom: belum
+pesen: pesan
+blanja: belanja
+apl: aplikasi
+nyoba: mencoba
+bgus: bagus
+pengen: ingin
+vocer: voucher
+slalu: selalu
+baguss: bagus
+org: orang
+blum: belum
+abis: habis
+dibatalin: dibatalkan
+trima: terima
+kesel: kesal
+brg: barang
+masukin: masukkan
+ilang: hilang
+blom: belum
+bnyak: banyak
+dikit: sedikit
+skrng: sekarang
+anter: antar
+pke: pakai
+bnyk: banyak
+nyari: mencari
+smoga: semoga
+voucer: voucher
+dipake: dipakai
+mantapp: mantap
+recomended: recommended
+dasbord: dashboard
+nipu: menipu
+vocher: voucher
+komplen: complain
+lbh: lebih
+donlod: download
+skil: skill
+terimaksih: terima kasih
+muter: memutar
+sngat: sangat
+jt: juta
+maksa: memaksa
+sma: sama
+bngt: banget
+dateng: datang
+blnja: belanja
+ksh: kasih
+nanya: tanya
+terimah: terima
+hrs: harus
+mantappp: mantap
+platihan: pelatihan
+balikin: balikkan
+pokonya: pokoknya
+seneng: senang
+academi: akademi
+kemaren: kemarin
+smpe: sampai
+nambah: tambah
+byk: banyak
+expedisi: ekspedisi
+dasbor: dashboard
+smua: semua
+terimakasi: terima kasih
+ngerti: mengerti
+ksih: kasih
+pakek: pakai
+make: pakai
+telpon: telepon
+bnget: banget
+temen: teman
+complain: complain
+gajelas: tidak jelas
+dowload: download
+bru: baru
+hr: hari
+apps: aplikasi
+boong: bohong
+ngirim: mengirim
+ttp: tetap
+gede: besar
+cm: cuma
+moga: semoga
+bagusss: bagus
+mesti: pasti
+dashbord: dashboard
+tlp: telepon
+akademy: akademi
+smpai: sampai
+casback: cashback
+bli: beli
+tlg: tolong
+cpt: cepat
+bgs: bagus
+mlh: malah
+bales: balas
+mantep: mantap
+mntap: mantap
+ngiklan: mengiklan
+gausah: tidak usah
+tokopedi: tokopedia
+shoppe: shopee
+donwload: download
+milih: pilih
+kluar: keluar
+sllu: selalu
+capek: cape
+apknya: aplikasinya
+banyakin: banyakkan
+tks: terima kasih
+byr: bayar
+brang: barang
+system: sistem
+beneran: benaran
+skali: sekali
+sgt: sangat
+ngisi: mengisi
+donlot: download
+ntar: sebentar
+emng: memang
+rekomended: recommended
+tlong: tolong
+siip: sip
+downlod: download
+bln: bulan
+trims: terima kasih
+benerin: benarkan
+thx: terima kasih
+shoope: shopee
+shope: shopee
+mesen: pesan
+kasian: kasihan
+bangat: banget
+ngambil: mengambil
+jls: jelas
+mantaap: mantap
+hrus: harus
+trimaksih: terima kasih
+tokoped: tokopedia
+kurangin: kurangkan
+terimkasih: terima kasih
+ngeselin: mengesalkan
+adain: adakan
+unistal: uninstall
+nyesal: menyesal
+ampe: sampai
+ovopaylater: ovo paylater
+emg: memang
+turunin: turunkan
+masi: masih
+ngabisin: menghabiskan
+mlah: malah
+stelah: setelah
+tuker: tukar
+msih: masih
+mksh: terima kasih
+aplikasih: aplikasi
+hadeh: aduh
+skrang: sekarang
+bnr: benar
+makasi: terima kasih
+bner: benar
+pesenan: pesanan
+mantaaap: mantap
+ditokped: di tokopedia
+dtg: datang
+sngt: sangat
+updet: update
+sangatt: sangat
+didasboard: di dashboard
+maap: maaf
+ngaco: mengacau
+hadia: hadiah
+rekomen: recommend
+sangan: sangat
+nyangkut: menyangkut
+topet: tokopedia
+josss: jos
+tokopediaa: tokopedia
+donload: download
+telp: telepon
+brng: barang
+seler: seller
+pelayananya: pelayanannya
+ancur: hancur
+bagussss: bagus
+teruss: terus
+belnja: belanja
+narik: menarik
+verivikasi: verifikasi
+applikasi: aplikasi
+platfrom: platform
+entar: sebentar
+terpecaya: terpercaya
+jngan: jangan
+suda: sudah
+trimakasi: terima kasih
+joss: jos
+mantaf: mantap
+jngn: jangan
+gunain: gunakan
+bbrp: beberapa
+mantapppp: mantap
+trmksh: terima kasih
+dpet: dapat
+mkin: makin
+nnti: nanti
+bkin: buat
+pelatihanya: pelatihannya
+rubah: ubah
+suru: suruh
+byar: bayar
+sebenernya: sebenarnya
+dibalikin: dibalikkan
+onkir: ongkir
+antaraja: anteraja
+maen: main
+kouta: kuota
+dpat: dapat
+bangett: banget
+boss: bos
+nginstal: menginstal
+ngulang: mengulang
+reting: rating
+msuk: masuk
+alesan: alas an
+sanggat: sangat
+tranfer: transfer
+nmr: nomor
+nungguin: menunggu
+bls: balas
+nulis: menulis
+prnh: pernah
+skarang: sekarang
+dowlod: download
+lbih: lebih
+sblm: sebelum
+rbu: ribu
+lwt: lewat
+sertipikat: sertifikat
+bangettt: banget
+thn: tahun
+naikin: menaikkan
+smga: semoga
+lma: lama
+gegara: gara-gara
+nerima: menerima
+nyuruh: menyuruh
+merubah: mengubah
+bangt: banget
+msk: masuk
+lngsung: langsung
+pengirimanya: pengirimannya
+ngadain: mengadakan
+mantull: mantul
+tq: terima kasih
+dikasi: dikasih
+mesan: memesan
+penguna: pengguna
+lgsg: langsung
+membantuu: membantu
+sangt: sangat
+dibikin: dibuat
+tlng: tolong
+recomend: recommend
+mhon: mohon
+mengunakan: menggunakan
+hnya: hanya
+komplin: complain
+lainya: lainnya
+cekout: checkout
+ngecewain: mengecewakan
+hri: hari
+goood: good
+pnjual: penjual
+ttep: tetap
+mao: mau
+barng: barang
+voucernya: vouchernya
+laen: lain
+ngomong: mengomong
+bukak: buka
+nyampek: sampai
+onlen: online
+keliatan: kelihatan
+kcewa: kecewa
+gud: good
+apus: hapus
+teros: terus
+pda: pada
+sll: selalu
+tmbh: tambah
+makai: memakai
+sanagat: sangat
+sippp: sip
+dibales: dibalas
+ktanya: katanya
+ngundang: mengundang
+nyampai: sampai
+orng: orang
+tlpn: telepon
+saranin: sarankan
+ikutin: ikuti
+perbaikin: perbaiki
+munculin: munculkan
+chek: check
+trnyata: ternyata
+rame: ramai
+tokpet: tokopedia
+keluarin: keluarkan
+belaja: belanja
+sagat: sangat
+bangus: bagus
+mmbantu: membantu
+ngeluh: mengeluh
+loding: loading
+bntang: bintang
+pantes: pantas
+entaraja: anteraja
+binggung: bingung
+mantaps: mantap
+erorr: error
+kmren: kemarin
+responya: responnya
+iklanya: iklannya
+slesai: selesai
+maksih: terima kasih
+chekout: checkout
+chek out: checkout
+check out: checkout
+kepake: terpakai
+kenceng: kencang
+baikk: baik
+brp: berapa
+luarbiasa: luar biasa
+nyampenya: sampainya
+fahami: pahami
+selsai: selesai
+setifikat: sertifikat
+ngasi: mengasih
+rmh: rumah
+ditoped: di tokopedia
+matap: mantap
+dirubah: diubah
+perna: pernah
+truss: terus
+mala: malah
+sertivikat: sertifikat
+sebel: sebal
+mayan: lumayan
+tmpt: tempat
+membntu: membantu
+okay: oke
+mhn: mohon
+skli: sekali
+pokoke: pokoknya
+ngajuin: mengajukan
+bisaa: bisa
+smakin: semakin
+okey: oke
+lagii: lagi
+parahh: parah
+mnta: minta
+application: aplikasi
+sekrang: sekarang
+jangn: jangan
+dwonload: download
+diem: diam
+jln: jalan
+smp: sampai
+siiip: sip
+kerenn: keren
+vocernya: vouchernya
+mintak: minta
+academic: akademik
+mksih: terima kasih
+ratting: rating
+geratis: gratis
+flashsale: flash sale
+sipp: sip
+pembayaranya: pembayarannya
+mantulll: mantul
+pliss: plis
+okee: oke
+bentar: sebentar
+bangetttt: banget
+hape: hp
+karna: karena
+mulu: terus
+app: aplikasi
+rb: ribu
+nunggu: menunggu
+nyesel: menyesal
+ditokopedia: di tokopedia
+nomer: nomor
+thanks: terima kasih
+batalin: batalkan
+notif: notifikasi
+tambahin: tambahkan
+kedepan: ke depan
+servis: service
+ditempat: di tempat
+didashboard: di dashboard
+ditoko: di toko
+simple: simpel
+thank: terima kasih
+thank you: terima kasih
+handphone: hp
+dirumah: di rumah
+tf: transfer
+tokepedia: tokopedia
+instant: instan
+rek: rekening
+nyusahin: menyusahkan
+disaat: di saat
+team: tim
+bermamfaat: bermanfaat
+bantuanya: bantuannya
+tokpednya: tokopedianya
+fb: facebook
+stiap: setiap
+please: plis
+dsini: di sini
+diprakerja: di prakerja
+bosen: bosan
+diperbaharui: diperbarui
+nyambung: menyambung
+alhamdulilah: alhamdulillah
+perbaharui: perbarui
+kedepanya: ke depannya
+diaplikasi: di aplikasi
+tokpedia: tokopedia
+nyasar: menyasar
+diatas: di atas
+history: histori
+pembaharuan: pembaruan
+menganggu: mengganggu
+berterimakasih: berterima kasih
+sekedar: sekadar
+asik: asyik
+apliksi: aplikasi
+signal: sinyal
+diluar: di luar
+hoak: hoax
+disana: di sana
+dibawah: di bawah
+cust: customer
+servis: service
+waw: wow
+crome: chrome
+indomart: indomaret
+nyebelin: menyebalkan
+urusin: uruskan
+ngurus: mengurus
+nyampah: menyampah
+rejeki: rezeki
+anterin: antarkan
+respond: respon

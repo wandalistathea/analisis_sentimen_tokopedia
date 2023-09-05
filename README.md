@@ -35,7 +35,11 @@ Every app has users who can give their opinions about the app. Their opinion can
   The method used was Support Vector Machine (SVM) using the accuracy value of 10-fold cross validation as an evaluation model.
 
 ## Web App (Flask)
-Code for deployment can be accessed in [this folder](https://github.com/wandalistathea/analisis_sentimen_tokopedia/tree/main/Deployment).
+Code for deployment can be accessed in [this folder](https://github.com/wandalistathea/analisis_sentimen_tokopedia/tree/main/Deployment). Use this command below in the terminal to automatically install all the packages needed and run the web app
+
+    pip install -r requirements.txt
+
+    python app.py
 
 ## Conclusions
 By using the Support Vector Machine (SVM) classification model, the accuracy value of the 10-fold cross validation is **87.19%**.
